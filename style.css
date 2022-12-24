@@ -1,0 +1,27 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+    background-size: cover;
+}
+
+.heading {
+    width: 100% !important;
+    margin: 0;
+    font-size: 20px;
+    color: #fff;
+}
+c {
+    font-size: 18px;
+    color: #000;
+}
+
+.aaa {
+    width: 150px;
+    font-size: 20px;
+    margin-top: 20px;
+} 
+
+canvas {
+    border: 2px solid #fff;
+    border-radius: 25px;
+    margin-top: 120px; 
+}
